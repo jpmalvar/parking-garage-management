@@ -8,6 +8,8 @@ This project simulates the management of a parking garage, including user authen
 
 The system was developed to practice programming fundamentals, data structures, functions, input validation, file handling, and basic software organization.
 
+This project was developed using Python and GitHub.
+
 ## 🚀 Features
 
 - User registration and login

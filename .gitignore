@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+estacionados.txt
+historico.txt
+sistema.txt
+usuarios.txt
